@@ -12,11 +12,6 @@ This portfolio showcases a variety of AI and machine learning projects developed
 - **Description:** A Jupyter Notebook that outlines the process of predicting the logarithm of GDP per capita using various machine learning techniques.
 - **Contents:** Data preprocessing, feature engineering, training, testing, and evaluating a linear model, improving a linear model using the SGD model, bagging, stacking, and cross-validation.
 
-### 3. `airbnbListingsData.csv`
-
-- **Description:** A CSV file containing data on Airbnb listings, used for training and evaluating the Airbnb classification model.
-
-
-### 4. `WHR2018Chapter2OnlineData.csv`
+### 3. `WHR2018Chapter2OnlineData.csv`
 
 - **Description:** A CSV file containing data from the World Happiness Report, used for training and evaluating the Predicting Log GDP Per Capita model.
